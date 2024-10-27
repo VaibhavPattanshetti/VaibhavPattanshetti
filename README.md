@@ -13,6 +13,6 @@
 - 📫 How to reach me: vaibhav.pattanashetti23@pccoepune.org
 
 ### Languages and Tools:
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
