@@ -19,5 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </span>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh6068&show_icons=true&theme=radical)
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavpattanshetti&show_icons=true&theme=radical)
+
 
