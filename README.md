@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Vaibhav Pattanshetti</h1>
 
-<h2 align="center">passionate about leveraging technology to solve real-world problems😎</h2>
+<h2 align="center">passionate about leveraging technology to solve real-world problems😎</h2><br>
 
 - ❤️ B.Tech Student at PCOOE, CS'27 📖📙
 
