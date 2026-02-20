@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pattanshetti</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | AI & ML Enthusiast</h3>
+<h3 align="center">🚀 Aspiring AI & ML Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 B.Tech Computer Engineering Student (CS'27)  
 🧠 Interested in Artificial Intelligence & Deep Learning  
 💡 Passionate about solving real-world problems using technology  
-📚 Currently improving my DSA & ML skills  
+📚 Currently improving my DL & ML skills  
 
 ---
 
