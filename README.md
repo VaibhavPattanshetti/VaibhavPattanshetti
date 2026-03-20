@@ -71,17 +71,17 @@
 
 ## 🧠 Featured Projects
 
-### 🧬 [Neurological Disorder Classification (CNN)](https://github.com/VaibhavPattanshetti)
+### 🧬 [Neurological Disorder Classification (CNN)](https://github.com/VaibhavPattanshetti/explainable-neurological-disorder-classification)
 > Classified **8 neurological conditions** from 24,000+ brain MRI scans using **ResNet50 transfer learning**.  
 > Achieved **91.99% accuracy** and **0.995 AUC** with clinical-safety-focused recall optimization.  
 > `Python` `TensorFlow` `Deep Learning` `ResNet50`
 
-### 💼 [Employee Designation & Salary Prediction](https://github.com/VaibhavPattanshetti)
+### 💼 [Employee Designation & Salary Prediction](https://github.com/VaibhavPattanshetti/employee-designation-and-salary-prediction)
 > ML pipeline on **8300+ employee records** — LassoCV (R²=0.90) for salary, SVM for role classification.  
 > Deployed as a **Streamlit web app**, containerized with **Docker** and published to Docker Hub.  
 > `Python` `scikit-learn` `Streamlit` `Docker`
 
-### 🔍 [Quora Question Pair Similarity Detection](https://github.com/VaibhavPattanshetti)
+### 🔍 [Quora Question Pair Similarity Detection](https://github.com/VaibhavPattanshetti/quora-question-pair-nlp)
 > Engineered **30+ NLP features** on **404K+ question pairs** using FuzzyWuzzy, Word2Vec & TF-IDF.  
 > Trained **XGBoost** achieving **89.5% accuracy** and **0.229 log loss**.  
 > `Python` `NLP` `XGBoost` `Word2Vec`
