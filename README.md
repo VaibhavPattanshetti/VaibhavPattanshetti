@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-pattanshetti/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just_vaibhav18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaibhavpattanshetti.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavPattanshetti)
 
 </div>
@@ -66,17 +66,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavPattanshetti&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **NPTEL DBMS** (IIT Kharagpur) — **Top 5% Elite** nationwide (Jan–Mar 2025)
-- ⭐ **HackerRank** — 5★ rating in **C++**, **Python**, and **Problem Solving**
-- 🍴 **CodeChef** — Solved **251+ problems**, highest rating **1404**
-- 🏅 **AlphaByte 3.0 Hackathon** — Selected for the **Final Round**
-- 📊 **Machine Learning using Python** — Simplilearn
-- 📈 **Power BI for Beginners** — Simplilearn
 
 ---
 
