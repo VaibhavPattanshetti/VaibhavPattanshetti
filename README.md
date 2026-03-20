@@ -94,14 +94,15 @@
 
 ---
 
-## 💬 Quote of the Day
-
-> *"In God we trust; all others must bring data."* — W. Edwards Deming
-
----
+## 🙏 Quote I Live By
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=VaibhavPattanshetti&color=blueviolet&style=for-the-badge)
+> ### *"You have the right to perform your actions,*
+> ### *but never to the fruits of your actions."*
+>
+> **— Lord Krishna, Bhagavad Gita 🪷**
 
 </div>
+
+---
