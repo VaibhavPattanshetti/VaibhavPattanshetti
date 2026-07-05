@@ -81,10 +81,10 @@
 > Deployed as a **Streamlit web app**, containerized with **Docker** and published to Docker Hub.  
 > `Python` `scikit-learn` `Streamlit` `Docker`
 
-### 🔍 [Quora Question Pair Similarity Detection](https://github.com/VaibhavPattanshetti/quora-question-pair-nlp)
-> Engineered **30+ NLP features** on **404K+ question pairs** using FuzzyWuzzy, Word2Vec & TF-IDF.  
-> Trained **XGBoost** achieving **89.5% accuracy** and **0.229 log loss**.  
-> `Python` `NLP` `XGBoost` `Word2Vec`
+### 🤖 [Agentic RAG Chatbot with Long-Term Memory](https://github.com/VaibhavPattanshetti/Agentic-RAG-Chatbot-with-Long-Term-Memory)
+> Built a multi-tool conversational **agent** using **LangGraph** that dynamically calls the right tool — PDF-based RAG, web search, stock lookup, calculator, or an MCP server — instead of just replying with text.  
+> Combines **short-term memory** (per-thread chat history) with **persistent long-term memory** (SQLite-backed, remembers facts about the user across sessions), plus a custom **MCP expense-tracking server**.  
+> `LangGraph` `Streamlit` `FAISS` `MCP` `OpenAI`
 
 ---
 
