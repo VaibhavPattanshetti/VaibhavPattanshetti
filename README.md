@@ -12,8 +12,8 @@
 
 - 🎓 B.Tech Student at **PCCOE, Computer Engineering '27**
 - 🤖 Passionate about **Machine Learning, Deep Learning & NLP**
-- 🚀 Building AI/ML projects that solve **real-world problems**
-- 🌿 Fun fact: I love **nature**, spending time with **family**, and exploring **new technologies**!
+- 🧠 Currently exploring **Agentic AI** — building autonomous, tool-using LLM systems
+- 🌿 Fun fact: I love **nature**, spending time with **family**, watching **anime**, and exploring **new technologies**!
 - 📬 Reach me at: **vaibhavpattanshetti123@gmail.com**
 
 ---
@@ -24,8 +24,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-pattanshetti/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just_vaibhav18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaibhavpattanshetti.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavPattanshetti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaibhavpattanshetti.netlify.app/)
 
 </div>
 
